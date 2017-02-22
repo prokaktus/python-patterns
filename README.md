@@ -1,4 +1,4 @@
-python-patterns
+python-patterns for profi
 ===============
 
 A collection of design patterns and idioms in Python.
